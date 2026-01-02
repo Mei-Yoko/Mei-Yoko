@@ -1,5 +1,6 @@
-<h1 align="center">🌖🐓 Mei-Yoko</h1>
-<h3 align="center">Hello Guys</h3>
+<h1 align="center">🌖</h1>
+<a href="https://mei-yoko.github.io/Main-Galax-Website/" target="_blank">
+<h3 align="center">안녕하세요</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
