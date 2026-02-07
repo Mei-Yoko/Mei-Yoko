@@ -1,4 +1,4 @@
-<h1 align="center">𝄞⨾💿✮˚.⋆🃜🃚🃖🃁🂭🂺 </h1>
+<h1 align="center">안녕히 가세요</h1>
 <a href="https://mei-yoko.github.io/Main-Galax-Website/" target="_blank">
 <h3 align="center"><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/a0e5224c-1902-40ca-9a69-e24a49e0e74d" /><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/66a99c89-cbab-4e32-bc3b-3b8354cdf480" /><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/02cdd87f-7a67-42bb-afc5-a213db1d64df" />
 
