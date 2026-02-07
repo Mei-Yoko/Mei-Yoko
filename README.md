@@ -1,4 +1,4 @@
-<h1 align="center">𝄞⨾💿✮˚.⋆</h1>
+<h1 align="center">𝄞⨾💿✮˚.⋆ 𝐵𝑜𝑟𝑛 𝑡𝑜 𝑑𝑖𝑒. 🃜🃚🃖🃁🂭🂺 </h1>
 <a href="https://mei-yoko.github.io/Main-Galax-Website/" target="_blank">
 <h3 align="center"><img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/592f8d12-06a4-45bd-b2b8-e694fa76abec" />
 </h3>
