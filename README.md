@@ -1,4 +1,4 @@
-<h1 align="center">안녕히 가세요 bond to beyond</h1>
+<h1 align="center">안녕히 가세요</h1>
 <a href="https://mei-yoko.github.io/Main-Galax-Website/" target="_blank">
 <h3 align="center">
 </h3>
