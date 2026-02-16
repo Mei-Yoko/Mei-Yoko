@@ -1,5 +1,4 @@
-<h1 align="center">![75a1c845bd72880777d7197958f42f05](https://github.com/user-attachments/assets/2f15791e-182e-4135-abcc-db1b68f9a736)
-</h1>
+<h1 align="center">Why he staring at me like that what did I do</h1>
 <h2 align="center">안녕히 가세요</h1>
 <a href="https://mei-yoko.github.io/Main-Galax-Website/" target="_blank">
 <h3 align="center">
