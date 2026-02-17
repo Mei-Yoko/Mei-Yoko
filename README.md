@@ -13,5 +13,5 @@
   </button>
 </a>
 <p align="right">
-  <img src="Downloads/ranger.jpg" height="60" width="40">
+  <img src="ranger.jpg" height="60" width="40">
 </p>
