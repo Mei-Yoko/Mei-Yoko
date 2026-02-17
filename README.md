@@ -1,3 +1,8 @@
+ <p style="color: #6a737d; letter-spacing: 2px; font-size: 10.1em;">
+    <i>"안녕히 가세요"</i>
+  </p>
+<p style="color: #d1d1d1; font-size:2.5em; margin: 30px 0;">
+   ♥𝓓𝓲𝓪𝓷𝓪♥
 <h1 align="center">안녕히 가세요</h1>
 <h2 align="center"> ♥𝓓𝓲𝓪𝓷𝓪♥</h2>
 <div align="center">
