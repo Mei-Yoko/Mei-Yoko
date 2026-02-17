@@ -1,7 +1,7 @@
  <div align="center">
  <p align="center">
  <p style="color: #6a737d; letter-spacing: 2px; font-size: 10.1em;">
-    <i>"안녕히 가세요"</i>
+    <i>안녕히 가세요</i>
   </p>
 <p style="color: #d1d1d1; font-size:2.5em; margin: 30px 0;">
    ♥𝓓𝓲𝓪𝓷𝓪♥
