@@ -1,5 +1,5 @@
 <h1 align="center">안녕히 가세요</h1>
-<h2 align="center">Wんﾘ ん乇 丂ｲﾑ尺ﾉ刀ム ﾑｲ ﾶ乇 ﾚﾉズ乇 ｲんﾑｲ Wんﾑｲ りﾉり ﾉ りの</h1>
+<h2 align="center">𝚆𝚑𝚢 𝚑𝚎 𝚜𝚝𝚊𝚛𝚒𝚗𝚐 𝚊𝚝 𝚖𝚎 𝚕𝚒𝚔𝚎 𝚝𝚑𝚊𝚝 𝚠𝚑𝚊𝚝 𝚍𝚒𝚍 𝙸 𝚍𝚘</h1>
 <a href="https://mei-yoko.github.io/Main-Galax-Website/" target="_blank">
 <h3 align="center">
 </h3>
