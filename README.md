@@ -1,8 +1,5 @@
 <h1 align="center">안녕히 가세요</h1>
 <h2 align="center"> ♥𝓓𝓲𝓪𝓷𝓪♥</h2>
-<a href="https://mei-yoko.github.io/Main-Galax-Website/" target="_blank">
-<h3 align="center">
-</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
