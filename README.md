@@ -2,7 +2,7 @@
 <h2 align="center"> ♥𝓓𝓲𝓪𝓷𝓪♥</h2>
 <div align="center">
   <p align="center">
-    <img src="ranger.jpg" width="30%" height="25%" style="border-radius: 2px; filter: grayscale(2%); border: 0.5px solid #d1d1d1;" />
+    <img src="ranger.jpg" width="25" height="15" style="border-radius: 2px; filter: grayscale(2%); border: 0.5px solid #d1d1d1;" />
   </p>
   
 <h3 align="left">Connect with me:</h3>
