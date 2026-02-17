@@ -13,5 +13,5 @@
   </button>
 </a>
 <div align="right">
-  <img src="![75a1c845bd72880777d7197958f42f05](https://github.com/user-attachments/assets/afecdc67-1242-4ec0-b836-b23b38b6b695)" height="30" width="40" /></div> 
+  <img src="ranger.jpg" height="60" width="40" /></div> 
 </p>
