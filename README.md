@@ -4,8 +4,8 @@
     <i>안녕히 가세요</i>
   </p>
 <p style="color: #d1d1d1; font-size:2.5em; margin: 30px 0;">
-   ♥𝓓𝓲𝓪𝓷𝓪♥
- <p align="center">
+   <i>♥𝓓𝓲𝓪𝓷𝓪♥</i>
+</p>
     <img src="ranger.jpg" width="50%"  style="border-radius: 2px; filter: grayscale(2%); border: 0.5px solid #d1d1d1;" />
   </p>
   
