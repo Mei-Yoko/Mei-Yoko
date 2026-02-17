@@ -12,6 +12,6 @@
     QxeXy
   </button>
 </a>
-<div align="right">
-  <img src="ranger.jpg" height="60" width="40" /></div> 
+<p align="right">
+  <img src="Downloads/ranger.jpg" height="60" width="40">
 </p>
